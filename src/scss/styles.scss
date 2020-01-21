@@ -1,0 +1,18 @@
+$backgroundColor:#141720;
+
+
+._loading_overlay_wrapper{
+    position: static !important;
+}
+._loading_overlay_overlay{
+    background: $backgroundColor !important;
+
+}
+._loading_overlay_content{
+
+}
+
+._loading_overlay_spinner{
+    color: white;
+    background: white;
+}
